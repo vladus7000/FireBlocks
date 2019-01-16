@@ -1,2 +1,3 @@
 # FireBlocks
-small game about falling blocks. This will be EPIC!
+small game about falling blocks.
+cmake + SDL + nanogui
